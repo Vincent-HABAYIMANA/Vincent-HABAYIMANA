@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi 👋 I'm Vincent Habayimana</h1>
+<h1 align="center">Hi 👋 I'm Vincent HABAYIMANA</h1>
 
 <h3 align="center">🎓 Computer Engineering Student | 🔌 Networking Specialist | 🌐 Cybersecurity Enthusiast | 🤖 Arduino Developer</h3>
 
