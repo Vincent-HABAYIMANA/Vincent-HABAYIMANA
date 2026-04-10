@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/vincent-habayimana-730b023b2?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/Vincent-HABAYIMANA">
@@ -20,8 +20,9 @@
 
 <h1 align="center">Hi 👋 I'm Vincent HABAYIMANA</h1>
 
-<h3 align="center">🎓 Computer Engineering Student | 🔌 Networking Specialist | 🌐 Cybersecurity Enthusiast | 🤖 Arduino Developer</h3>
-
+<h3 align="center">
+🎓 Computer Engineering Student | 🔌 Networking Specialist | 🌐 Cybersecurity Enthusiast | 🤖 Arduino Developer | 💻 Web Developer | 🛠️ Software Developer
+</h3>
 ---
 
 <h3 align="left">🚀 About Me</h3>
@@ -66,9 +67,9 @@ I am passionate about building practical technology solutions that solve real-wo
 <h3 align="left">📚 Currently</h3>
 
 <p align="left">
-🔭 Working on embedded and networking projects<br>
-🌱 Improving advanced networking and IoT systems<br>
-👯 Open to collaboration on networking, IoT, and embedded projects
+🔭 Working on embedded, networking, and web development projects<br>
+🌱 Improving advanced networking, IoT systems, and web technologies<br>
+👯 Open to collaboration on networking, IoT, embedded, and web development projects
 </p>
 
 ---
